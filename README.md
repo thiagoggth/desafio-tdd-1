@@ -43,13 +43,18 @@ UDDDUDUU
 If we represent _ as sea level, a step up as / , and a step down as \ , the hike
 can be drawn as:
 
-![enter image description here](https://drive.google.com/u/0/uc?id=1uo6doXlyYWHZ1j1aL75Fcuc10clQjZWC&export=download)
+![exemple image](https://drive.google.com/u/0/uc?id=1uo6doXlyYWHZ1j1aL75Fcuc10clQjZWC&export=download)
+
 The hiker enters and leaves one valley.
 
 **Other Samples**
 
 UDDDUDUU = 1
+
 DDUUUUDD = 1
+
 DDUUDDUDUUUD = 2
+
 DUDDDUUDUU = 2
+
 DDUUUDDDUUUDDDUUUDDU = 4
